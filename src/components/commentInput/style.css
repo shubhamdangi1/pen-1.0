@@ -1,0 +1,16 @@
+.commentInput{
+    display: flex;
+    justify-content: space-between;
+}
+
+.commentTexta{
+    border: none;
+    resize: none;
+    width: 100%;
+    margin: 8px 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.commentTexta:focus{
+    outline: none;
+}

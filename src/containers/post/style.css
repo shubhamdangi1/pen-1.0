@@ -1,0 +1,28 @@
+.post{
+    background-color: white;
+    max-width: 600px;
+    width: 90vw;
+    padding: 16px;
+    align-items: center;
+}
+
+.postHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.postHeaderLeft {
+    display: flex;
+}
+
+.dp{
+    height: 35px;
+    border-radius: 15px;
+}
+
+.postPhoto{
+width: 100%;
+object-fit: cover;
+margin: 10px;
+}
